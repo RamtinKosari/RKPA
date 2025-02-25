@@ -5,10 +5,10 @@ I used RKPA to analyze trends in the fields of astrophysics and computer science
 
 ### Top Keywords Categorized by Occurrences and Years :
 <div align="center">
-  <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/keywords.png" width="74%"/>
+  <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/keywords.png" width="98%"/>
 </div>
 <div align="center">
-  <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/AI_trend.png" width="73%"/>
+  <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/AI_trend.png" width="98%"/>
   <div align="center">
     <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Cosmology_trend.png" width="47%"/>
     <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Astrophysics_trend.png" width="47%"/>

@@ -10,20 +10,20 @@ I used RKPA to analyze trends in the fields of astrophysics and computer science
 <div align="center">
   <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/AI_trend.png" width="98%"/>
   <div align="center">
-    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Cosmology_trend.png" width="47%"/>
-    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Astrophysics_trend.png" width="47%"/>
+    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Cosmology_trend.png" width="49%"/>
+    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Astrophysics_trend.png" width="49%"/>
   </div>
   <div align="center">
-    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Dark%20Matter%20and%20Dark%20Energy_trend.png" width="47%"/>
-    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Simulation_trend.png" width="47%"/>
+    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Dark%20Matter%20and%20Dark%20Energy_trend.png" width="49%"/>
+    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Simulation_trend.png" width="49%"/>
   </div>
   <div align="center">
-    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Galaxy_trend.png" width="47%"/>
-    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Stars_trend.png" width="47%"/>
+    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Galaxy_trend.png" width="49%"/>
+    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Stars_trend.png" width="49%"/>
   </div>
   <div>
-    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Exoplanets_trend.png" width="47%"/>
-    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Observation_trend.png" width="47%"/>
+    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Exoplanets_trend.png" width="49%"/>
+    <img src="https://github.com/RamtinKosari/RKPA/blob/main/Data/Trending/Observation_trend.png" width="49%"/>
   </div>
 </div>
 
